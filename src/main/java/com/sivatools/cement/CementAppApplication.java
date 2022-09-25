@@ -8,6 +8,8 @@ public class CementAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CementAppApplication.class, args);
+		
+		System.out.println(" Welcome to the Cement App");
 	}
 
 }
